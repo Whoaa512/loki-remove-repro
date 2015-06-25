@@ -1,0 +1,1 @@
+{"filename":"queued-approvals.json","collections":[],"databaseVersion":1.1,"engineVersion":1.1,"autosave":false,"autosaveInterval":5000,"autosaveHandle":null,"options":{"autoload":true},"persistenceMethod":"fs","persistenceAdapter":null,"events":{"init":[null],"flushChanges":[],"close":[],"changes":[],"warning":[]},"ENV":"NODEJS"}
