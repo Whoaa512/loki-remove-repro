@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "C.J. Winslow <whoaa512@gmail.com> (https://github.com/whoaa512)",
   "license": "ISC",
